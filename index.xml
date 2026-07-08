@@ -3062,7 +3062,7 @@
  &lt;div class="row g-0 align-items-stretch"&gt;
  &lt;!-- Developer Image (Fixed Path) --&gt;
  &lt;div class="col-md-4 col-lg-3" style="background-color: var(--bg-color);"&gt;
- &lt;img src="https://luckytaorem.github.io/blog/images/lucky.jpg" alt="Lucky Taorem" class="img-fluid w-100 h-100" style="object-fit: cover; min-height: 300px;"&gt;
+ &lt;img src="https://ltdeveloperblogs.github.io/images/lucky.jpg" alt="Lucky Taorem" class="img-fluid w-100 h-100" style="object-fit: cover; min-height: 300px;"&gt;
  &lt;/div&gt;
  &lt;!-- Developer Info &amp; Links --&gt;
  &lt;div class="col-md-8 col-lg-9"&gt;
@@ -3169,7 +3169,7 @@ document.getElementById('contact-form').addEventListener('submit', function(even
  sessionStorage.setItem('formSubmitted', 'true');
 
  // Send them to the Thank You page
- window.location.href = "https://luckytaorem.github.io/blog/thanks/";
+ window.location.href = "https://ltdeveloperblogs.github.io/thanks/";
  }, (error) =&gt; {
  // Failed. Show error, reset the button and the CAPTCHA
  console.log('FAILED...', error);
