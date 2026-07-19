@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Email on Lucky Taorem | Tech &amp; AI Blog</title><link>https://ltdeveloperblogs.github.io/tags/email/</link><description>Recent content in Email on Lucky Taorem | Tech &amp; AI Blog</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 15 Jul 2026 11:25:48 +0530</lastBuildDate><atom:link href="https://ltdeveloperblogs.github.io/tags/email/index.xml" rel="self" type="application/rss+xml"/><item><title>Superhuman's AI Email Replies</title><link>https://ltdeveloperblogs.github.io/posts/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/</link><pubDate>Wed, 15 Jul 2026 11:25:48 +0530</pubDate><guid>https://ltdeveloperblogs.github.io/posts/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/</guid><description>&lt;h2 id="introduction-to-superhumans-auto-draft-feature" class="heading "&gt;Introduction to Superhuman&amp;rsquo;s Auto-Draft Feature&lt;a href="#introduction-to-superhumans-auto-draft-feature" aria-labelledby="introduction-to-superhumans-auto-draft-feature"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Email on Lucky Taorem | Tech &amp; AI Blog</title><link>https://ltdeveloperblogs.github.io/tags/email/</link><description>Recent content in Email on Lucky Taorem | Tech &amp; AI Blog</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 15 Jul 2026 11:25:48 +0530</lastBuildDate><atom:link href="https://ltdeveloperblogs.github.io/tags/email/index.xml" rel="self" type="application/rss+xml"/><item><title>Superhuman's AI Email Replies</title><link>https://ltdeveloperblogs.github.io/posts/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/</link><pubDate>Wed, 15 Jul 2026 11:25:48 +0530</pubDate><guid>https://ltdeveloperblogs.github.io/posts/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/</guid><description>&lt;h2 id="introduction-to-superhumans-auto-draft-feature" class="heading"&gt;Introduction to Superhuman&amp;rsquo;s Auto-Draft Feature&lt;a href="#introduction-to-superhumans-auto-draft-feature" aria-labelledby="introduction-to-superhumans-auto-draft-feature"&gt;
 
 
 
 
 
-
-
-
-&lt;!-- &lt;i class="fas fa-link anchor"&gt;&lt;/i&gt; --&gt;
- &lt;svg class="svg-inline--fa fas fa-link anchor" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 576 512"&gt;&lt;use href="#fas-link"&gt;&lt;/use&gt;&lt;/svg&gt;&amp;nbsp;
+&lt;i class="fas fa-link anchor"&gt;&lt;/i&gt;&amp;nbsp;
  &lt;/a&gt;
 &lt;/h2&gt;
+
 &lt;p&gt;Superhuman, a well-known email client, has recently introduced an auto-draft feature that aims to improve AI-generated email replies. This feature uses a mixture of models, including frontier models from both Anthropic and Open AI, to create draft responses that sound less robotic. According to Rahul Vohra, Superhuman&amp;rsquo;s co-founder, &amp;ldquo;Today, we are using a mixture of models to make this work. The actual writing is done by frontier models from both Anthropic and Open AI. So we’re applying the maximum amount of intelligence and context to this that we possibly can to make the feature work.&amp;rdquo;&lt;/p&gt;</description></item></channel></rss>

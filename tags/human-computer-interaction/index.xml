@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Human-Computer Interaction on Lucky Taorem | Tech &amp; AI Blog</title><link>https://ltdeveloperblogs.github.io/tags/human-computer-interaction/</link><description>Recent content in Human-Computer Interaction on Lucky Taorem | Tech &amp; AI Blog</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 17 Jul 2026 22:11:39 +0530</lastBuildDate><atom:link href="https://ltdeveloperblogs.github.io/tags/human-computer-interaction/index.xml" rel="self" type="application/rss+xml"/><item><title>ELIZA Chatbot: AI Pioneer</title><link>https://ltdeveloperblogs.github.io/posts/the-chatbot-that-foretold-why-people-share-secrets-with-chatgpt/</link><pubDate>Fri, 17 Jul 2026 22:11:39 +0530</pubDate><guid>https://ltdeveloperblogs.github.io/posts/the-chatbot-that-foretold-why-people-share-secrets-with-chatgpt/</guid><description>&lt;h2 id="introduction-to-eliza" class="heading "&gt;Introduction to ELIZA&lt;a href="#introduction-to-eliza" aria-labelledby="introduction-to-eliza"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Human-Computer Interaction on Lucky Taorem | Tech &amp; AI Blog</title><link>https://ltdeveloperblogs.github.io/tags/human-computer-interaction/</link><description>Recent content in Human-Computer Interaction on Lucky Taorem | Tech &amp; AI Blog</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 17 Jul 2026 22:11:39 +0530</lastBuildDate><atom:link href="https://ltdeveloperblogs.github.io/tags/human-computer-interaction/index.xml" rel="self" type="application/rss+xml"/><item><title>ELIZA Chatbot: AI Pioneer</title><link>https://ltdeveloperblogs.github.io/posts/the-chatbot-that-foretold-why-people-share-secrets-with-chatgpt/</link><pubDate>Fri, 17 Jul 2026 22:11:39 +0530</pubDate><guid>https://ltdeveloperblogs.github.io/posts/the-chatbot-that-foretold-why-people-share-secrets-with-chatgpt/</guid><description>&lt;h2 id="introduction-to-eliza" class="heading"&gt;Introduction to ELIZA&lt;a href="#introduction-to-eliza" aria-labelledby="introduction-to-eliza"&gt;
 
 
 
 
 
-
-
-
-&lt;!-- &lt;i class="fas fa-link anchor"&gt;&lt;/i&gt; --&gt;
- &lt;svg class="svg-inline--fa fas fa-link anchor" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 576 512"&gt;&lt;use href="#fas-link"&gt;&lt;/use&gt;&lt;/svg&gt;&amp;nbsp;
+&lt;i class="fas fa-link anchor"&gt;&lt;/i&gt;&amp;nbsp;
  &lt;/a&gt;
 &lt;/h2&gt;
+
 &lt;p&gt;The ELIZA chatbot, created by Joseph Weizenbaum in the 1960s, is a landmark in the development of artificial intelligence (AI) and human-computer interaction. This chatbot was designed to explore the psychological factors that lead humans to misinterpret its capabilities, and its interactions with users led to the concept of the &amp;ldquo;ELIZA effect.&amp;rdquo; The ELIZA effect, as defined by sociologist Sherry Turkle, refers to the tendency to treat responsive computer programs as more intelligent than they really are. Similarly, cognitive and computer scientist Douglas Hofstadter describes the ELIZA effect as the susceptibility of people to read far more understanding than is warranted into strings of symbols.&lt;/p&gt;</description></item></channel></rss>
